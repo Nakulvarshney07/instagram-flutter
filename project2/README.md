@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+# Images
+<img src="https://raw.githubusercontent.com/Nakulvarshney07/instagram-flutter/main/project2/assets/images/IMG-20240303-WA0029.jpg" height=30% width= 30%> <img src="https://raw.githubusercontent.com/Nakulvarshney07/instagram-flutter/main/project2/assets/images/IMG-20240303-WA0030.jpg" height=30% width= 30%>
+<img src="https://raw.githubusercontent.com/Nakulvarshney07/instagram-flutter/main/project2/assets/images/IMG-20240303-WA0031.jpg" height=30% width= 30%>
+<img src="https://raw.githubusercontent.com/Nakulvarshney07/instagram-flutter/main/project2/assets/images/IMG-20240303-WA0032.jpg" height=30% width= 30%>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
